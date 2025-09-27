@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Grish2063 👋
 
-<!--
-**Grish2063/Grish2063** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **student** passionate about learning and building with technology.  
+I love exploring new frameworks, tackling coding challenges, and growing my skills every day.
 
-Here are some ideas to get you started:
+## 🚀 Top Skills
+- **React.js**
+- **Python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Projects
+*My favorite projects are coming soon—stay tuned!*
+
+## 💡 Hobbies & Interests
+- Tech innovations
+- Building cool stuff
+- Learning something new every day
+
+## 📫 Contact & Links
+Links coming soon!  
+Feel free to connect once they're ready.
+
+---
+
+Thanks for visiting my profile!  
+Let's learn and build together. 😊
