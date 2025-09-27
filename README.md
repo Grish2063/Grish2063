@@ -1,4 +1,4 @@
-# Hi, I'm Grish2063 👋
+# Hi, I'm Grish Maharjan 👋
 
 I'm a **student** passionate about learning and building with technology.  
 I love exploring new frameworks, tackling coding challenges, and growing my skills every day.
