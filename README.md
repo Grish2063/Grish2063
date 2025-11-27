@@ -8,7 +8,7 @@ I love exploring new frameworks, tackling coding challenges, and growing my skil
 - **Python**
 
 ## 🛠️ Projects
-*My favorite projects are coming soon—stay tuned!*
+Recipe website: https://recipe-pfeb.vercel.app/
 
 ## 💡 Hobbies & Interests
 - Tech innovations
