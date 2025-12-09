@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/9c/f5/0c/9cf50c5cde5a32614e100cb44bb1fe2f.gif" alt="banner" width="100%" />
+  <img src="https://i.pinimg.com/originals/9c/f5/0c/9cf50c5cde5a32614e100cb44bb1fe2f.gif" width="70%" alt="banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Grish Maharjan</h1>
