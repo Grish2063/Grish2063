@@ -10,12 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=grish2063&label=Profile%20views&color=0e75b6&style=flat" alt="grish2063" /> 
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=grish2063" alt="grish2063" />
-  </a> 
-</p>
-
 - 🔭 I’m currently working on **[Recipe Website](https://recipe-pfeb.vercel.app/)**  
 - 🌱 I’m currently learning **ReactJs**  
 - 📫 Reach me at **grishmaharjan9@gmail.com**  
@@ -59,14 +53,6 @@
 ---
 
 ### 📊 GitHub Stats
-
-<p>
-  <img align="left" src="https://raw.githubusercontent.com/rickstaa/github-readme-stats/master/api/top-langs/?username=Grish2063&layout=compact&theme=tokyonight" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://raw.githubusercontent.com/rickstaa/github-readme-stats/master/api/?username=Grish2063&show_icons=true&theme=tokyonight" />
-</p>
 
 <p>
   <img align="center" src="https://streak-stats.demolab.com?user=Grish2063&theme=tokyonight" />
