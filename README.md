@@ -61,15 +61,16 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=grish2063&layout=compact&show_icons=true&theme=tokyonight" alt="grish2063" />
+  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=grish2063&layout=compact&show_icons=true&theme=tokyonight&v=2" />
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=grish2063&show_icons=true&theme=tokyonight" alt="grish2063" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=grish2063&show_icons=true&theme=tokyonight&v=3" />
 </p>
 
 <p>
-  <img align="center" src="https://streak-stats.demolab.com?user=grish2063&theme=tokyonight" alt="grish2063" />
+  <img align="center" src="https://streak-stats.demolab.com?user=grish2063&theme=tokyonight&v=4" />
 </p>
+
 
 
