@@ -135,12 +135,6 @@
 </p>
 
 
-### 📊 GitHub Stats
-
-<p>
-  <img align="center" src="https://streak-stats.demolab.com?user=Grish2063&theme=tokyonight" />
-</p>
-
 
 
 
