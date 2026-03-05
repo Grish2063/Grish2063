@@ -13,7 +13,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 Currently working on **[Healthcare Management System]**
+- 🔭 Currently working on **Healthcare Management System**
 - 🌱 Learning **React.js**
 - 📫 Reach me at **grishmaharjan9@gmail.com**
 
