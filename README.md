@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 - 🔭 Currently working on **Healthcare Management System**
-- 🌱 Learning **React.js**
+- 🌱 Learning **MERN Stack**
 - 📫 Reach me at **grishmaharjan9@gmail.com**
 
 ---
