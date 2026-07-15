@@ -135,7 +135,7 @@ const grish = {
   <p>Made with ❤️ by <strong>Grish Maharjan</strong></p>
 </div>
 
-</p>
+</p
 
 
 
