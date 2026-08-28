@@ -26,7 +26,7 @@
 ```ts
 const grish = {
   name: "Grish Maharjan",
-  role: "Full Stack Developer",
+  role: "Student",
   location: "Nepal 🇳🇵",
   currentProject: "Healthcare Management System 🏥",
   learning: ["React.js ⚛️", "System Design 📐"],
