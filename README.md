@@ -75,8 +75,6 @@ const grish = {
         <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwind-css&logoColor=white" />
         <img src="https://img.shields.io/badge/In%20Progress-orange?style=flat-square" />
       </p>
-      <a href="https://healthcare-pied-theta.vercel.app/login">
-        <img src="https://img.shields.io/badge/🌐%20Live%20Demo-4CAF50?style=for-the-badge" />
       </a>
     </td>
   </tr>
